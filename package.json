@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "dependencies": {
+    "@microsoft/signalr": "^6.0.0"
+  }
+}
